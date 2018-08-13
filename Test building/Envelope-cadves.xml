@@ -1,0 +1,1806 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CADVES_BuildingElementInfo>
+  <RevitModel>
+    <fileName>HelebygningenInkl.rvt</fileName>
+  </RevitModel>
+  <Floors>
+    <Floor>
+      <id>352760</id>
+      <name>Generic 300mm</name>
+      <area>314.78450285115508</area>
+      <perimeter>0</perimeter>
+      <level>Autodesk.Revit.DB.Level</level>
+      <elevation>-0.3</elevation>
+      <isElementExterior>false</isElementExterior>
+      <height>0</height>
+      <length>83.282309188516265</length>
+    </Floor>
+  </Floors>
+  <Walls>
+    <Wall>
+      <id>339344</id>
+      <name>Generic - 300mm</name>
+      <area>49.260295381183383</area>
+      <length>14.447446152942989</length>
+      <height>3.8000000000000003</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339405</id>
+      <name>Generic - 300mm</name>
+      <area>27.679999999999843</area>
+      <length>5.7355</length>
+      <height>3.8000000000000003</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339447</id>
+      <name>Generic - 300mm</name>
+      <area>47.174947192900085</area>
+      <length>14.182880840236859</length>
+      <height>3.8000000000000003</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339488</id>
+      <name>Generic - 300mm</name>
+      <area>57.996271669159235</area>
+      <length>13.991465695399754</length>
+      <height>4.6252569728000017</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339572</id>
+      <name>Generic - 300mm</name>
+      <area>55.728341812646718</area>
+      <length>14.312159278341243</length>
+      <height>4.2123861704000012</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339605</id>
+      <name>Generic - 300mm</name>
+      <area>18.443757442063056</area>
+      <length>6.3483572215955384</length>
+      <height>3.8000000000000003</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>339754</id>
+      <name>Generic - 300mm</name>
+      <area>22.842084708730518</area>
+      <length>6.3483572215955562</length>
+      <height>4.0021184444864728</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>339792</id>
+      <name>Generic - 300mm</name>
+      <area>50.883988526372811</area>
+      <length>14.447446152942977</length>
+      <height>3.9123861704</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>339821</id>
+      <name>Generic - 300mm</name>
+      <area>29.912512493973782</area>
+      <length>5.7354999999999405</length>
+      <height>4.1494008392462769</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>339870</id>
+      <name>Generic - 300mm</name>
+      <area>54.509750857408349</area>
+      <length>14.182880840236857</length>
+      <height>4.3256198475107377</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>339896</id>
+      <name>Generic - 300mm</name>
+      <area>9.3880668682033654</area>
+      <length>2.1559656953998028</length>
+      <height>4.3256198475107386</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>339941</id>
+      <name>Generic - 300mm</name>
+      <area>42.258398237795525</area>
+      <length>9.9999999999999361</length>
+      <height>4.3833006035286646</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>340060</id>
+      <name>Generic - 300mm</name>
+      <area>8.9139362428826345</area>
+      <length>2.4766592783412431</length>
+      <height>4.0683790440304968</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 2</level>
+    </Wall>
+    <Wall>
+      <id>340584</id>
+      <name>Interior - 79mm Partition (1-hr)</name>
+      <area>13.299999999999997</area>
+      <length>3.4999999999999991</length>
+      <height>3.8000000000000003</height>
+      <width>0.08</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>351548</id>
+      <name>Generic - 300mm</name>
+      <area>40.830082772627769</area>
+      <length>9.9999999999999272</length>
+      <height>4.62561984751074</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>352980</id>
+      <name>Generic - 300mm</name>
+      <area>40.170000131840006</area>
+      <length>10.300000000000002</length>
+      <height>3.9000000128000005</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>353051</id>
+      <name>Generic - 300mm</name>
+      <area>24.570000080640007</area>
+      <length>6.3000000000000016</length>
+      <height>3.9000000128000005</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>353075</id>
+      <name>Generic - 300mm</name>
+      <area>40.170000131840034</area>
+      <length>10.300000000000011</length>
+      <height>3.9000000128000005</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+    <Wall>
+      <id>353581</id>
+      <name>Generic - 300mm</name>
+      <area>24.570000080640021</area>
+      <length>6.3000000000000034</length>
+      <height>3.9000000128000005</height>
+      <width>0.3</width>
+      <exteriorWall>true</exteriorWall>
+      <level>Level 1</level>
+    </Wall>
+  </Walls>
+  <Roofs>
+    <Roof>
+      <id>345661</id>
+      <name>Generic - 400mm</name>
+      <area>118.49840826582491</area>
+      <width>0.4</width>
+      <level>Level 2</level>
+      <roofSlope>2</roofSlope>
+      <height>0</height>
+      <length>21.847616789812413</length>
+    </Roof>
+    <Roof>
+      <id>345914</id>
+      <name>Generic - 400mm</name>
+      <area>195.29371757947376</area>
+      <width>0.4</width>
+      <level>Level 3</level>
+      <roofSlope>2</roofSlope>
+      <height>0</height>
+      <length>24.459478209445734</length>
+    </Roof>
+    <Roof>
+      <id>353592</id>
+      <name>Generic - 400mm</name>
+      <area>64.8900000000001</area>
+      <width>0.4</width>
+      <level>Level 2</level>
+      <roofSlope>0</roofSlope>
+      <height>0</height>
+      <length>33.200000000000024</length>
+    </Roof>
+  </Roofs>
+  <Families>
+    <Family>
+      <id>342941</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>342941</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>30</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>342999</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999983</area>
+      <glassArea>1.0799999999999983</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>342999</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>30</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343035</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343035</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>25</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>20</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343077</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343077</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>25</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>20</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343141</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999967</area>
+      <glassArea>1.0799999999999967</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343141</wallId>
+      <orientationAngle>160</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>20</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343187</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999967</area>
+      <glassArea>1.0799999999999967</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343187</wallId>
+      <orientationAngle>160</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>20</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343227</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999974</area>
+      <glassArea>1.0799999999999974</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343227</wallId>
+      <orientationAngle>160</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>30</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343269</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999983</area>
+      <glassArea>1.0799999999999983</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343269</wallId>
+      <orientationAngle>160</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>25</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343565</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343565</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Kitchen 25</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343605</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343605</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Kitchen 25</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343631</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343631</wallId>
+      <orientationAngle>360</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>5</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343726</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343726</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343755</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999974</area>
+      <glassArea>1.0799999999999974</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343755</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 20</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343831</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999961</area>
+      <glassArea>1.0799999999999961</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343831</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 21</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343881</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999981</area>
+      <glassArea>1.0799999999999981</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343881</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343934</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343934</wallId>
+      <orientationAngle>0</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>343942</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999981</area>
+      <glassArea>1.0799999999999981</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>343942</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 17</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344151</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>344151</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 17</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344222</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999964</area>
+      <glassArea>1.1999999999999964</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>344222</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 17</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344269</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999953</area>
+      <glassArea>1.1999999999999953</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>344269</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Office 16</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344395</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999957</area>
+      <glassArea>1.1999999999999957</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>344395</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>15</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344431</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999964</area>
+      <glassArea>1.1999999999999964</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>344431</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>5</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344461</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999955</area>
+      <glassArea>1.1999999999999955</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>344461</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>5</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344521</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999963</area>
+      <glassArea>1.0799999999999963</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>344521</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344545</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.079999999999997</area>
+      <glassArea>1.079999999999997</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>344545</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>10</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>344591</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999972</area>
+      <glassArea>1.0799999999999972</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>344591</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 15</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>30</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>10</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345006</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999955</area>
+      <glassArea>1.1999999999999955</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345006</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 21</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345104</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999957</area>
+      <glassArea>1.1999999999999957</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345104</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 20</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345176</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.199999999999996</area>
+      <glassArea>1.199999999999996</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345176</wallId>
+      <orientationAngle>360</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345209</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999962</area>
+      <glassArea>1.1999999999999962</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345209</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>45</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>45</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>85</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>85</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345249</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999968</area>
+      <glassArea>1.1999999999999968</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345249</wallId>
+      <orientationAngle>160</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>25</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345297</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999962</area>
+      <glassArea>1.1999999999999962</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345297</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Kitchen 25</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>345345</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999962</area>
+      <glassArea>1.1999999999999962</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>345345</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Kitchen 25</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>346106</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.199999999999996</area>
+      <glassArea>1.199999999999996</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>346106</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>70</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>20</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>346178</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999964</area>
+      <glassArea>1.1999999999999964</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>346178</wallId>
+      <orientationAngle>200</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Open Office 22</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>25</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>346259</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>346259</wallId>
+      <orientationAngle>340</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.30000000000000476</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>5</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>347768</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999957</area>
+      <glassArea>1.1999999999999957</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>347768</wallId>
+      <orientationAngle>0</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>5</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>352026</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>352026</wallId>
+      <orientationAngle>250</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>352076</id>
+      <name>M_Fixed Window type1</name>
+      <area>1.0799999999999976</area>
+      <glassArea>1.0799999999999976</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.79347599999999874</glassAreaEx>
+      <perimeter>4.7999999999999945</perimeter>
+      <height>1.7999999999999976</height>
+      <length>0.59999999999999953</length>
+      <wallId>352076</wallId>
+      <orientationAngle>250</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.30000000000000487</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>35</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>352220</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999964</area>
+      <glassArea>1.1999999999999964</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>352220</wallId>
+      <orientationAngle>250</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Canteen 26</roomName>
+      <silHeight>0.90000000000000591</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>40</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>354230</id>
+      <name>M_Skylight 0406 x 1170mm</name>
+      <area>0.56394574721872115</area>
+      <glassArea>0.56394574721872115</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.39753984000003423</glassAreaEx>
+      <perimeter>3.3701507318664206</perimeter>
+      <height>0</height>
+      <length>1.6850753659332103</length>
+      <wallId>354230</wallId>
+      <orientationAngle>20</orientationAngle>
+      <orientationSlope>2</orientationSlope>
+      <roomName>, Meeting Room 17</roomName>
+      <silHeight>7.0000000000000009</silHeight>
+      <levelName>Level 3</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.12192000000000001</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>354351</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999957</area>
+      <glassArea>1.1999999999999957</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>354351</wallId>
+      <orientationAngle>110</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Office 16</roomName>
+      <silHeight>0.90000000000000557</silHeight>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>40</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>354432</id>
+      <name>M_Fixed Window type2</name>
+      <area>1.1999999999999962</area>
+      <glassArea>1.1999999999999962</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>0.93867600000000173</glassAreaEx>
+      <perimeter>4.3999999999999924</perimeter>
+      <height>1.1999999999999966</height>
+      <length>0.99999999999999956</length>
+      <wallId>354432</wallId>
+      <orientationAngle>110</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Meeting Room 21</roomName>
+      <silHeight>0.76325181844047452</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>30</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+    <Family>
+      <id>340932</id>
+      <name>M_Door-Double-Glass 1700 x 2000mm Exterior</name>
+      <area>3.3999999999999972</area>
+      <glassArea>2.340000000000023</glassArea>
+      <panelArea>1.0599999999999987</panelArea>
+      <glassAreaEx>2.340000000000023</glassAreaEx>
+      <perimeter>7.3999999999999986</perimeter>
+      <height>1.9999999999999996</height>
+      <length>1.6999999999999991</length>
+      <wallId>340932</wallId>
+      <orientationAngle>360</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName>, Foye 27</roomName>
+      <silHeight>0</silHeight>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <hostWidth>0.29999999999999993</hostWidth>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>0</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <isElementExterior>true</isElementExterior>
+    </Family>
+  </Families>
+  <CurtainWalls>
+    <CurtainWall>
+      <id>344785</id>
+      <name>Storefront</name>
+      <area>9.1175702479338785</area>
+      <length>2.4000000000000008</length>
+      <height>3.8485743801652852</height>
+      <glassArea>6.2128469354862208</glassArea>
+      <panelArea>2.9047233124476586</panelArea>
+      <glassAreaEx>5.59450109963751</glassAreaEx>
+      <orientationAngle>110</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName></roomName>
+      <levelName>Level 2</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>40</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>0</shadingRight>
+      <shadingRightBefore />
+      <Panels>
+        <Panel>
+          <id />
+          <name />
+          <area />
+          <perimeter />
+          <isItGlass />
+        </Panel>
+        <Panel>
+          <id>344786</id>
+          <name>Storefront</name>
+          <area>2.6156250000000032</area>
+          <perimeter>6.9000000000000012</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+        <Panel>
+          <id>344789</id>
+          <name>Storefront</name>
+          <area>2.6156249999999983</area>
+          <perimeter>6.8999999999999977</perimeter>
+          <isItGlass>false</isItGlass>
+        </Panel>
+        <Panel>
+          <id>344795</id>
+          <name>Storefront</name>
+          <area>1.4621265828766048</area>
+          <perimeter>4.8502962253412267</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+        <Panel>
+          <id>344796</id>
+          <name>Storefront</name>
+          <area>1.5167495167609015</area>
+          <perimeter>4.9474036633577532</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+      </Panels>
+    </CurtainWall>
+    <CurtainWall>
+      <id>345448</id>
+      <name>Storefront</name>
+      <area>8.4000000000000146</area>
+      <length>2.4000000000000039</length>
+      <height>3.5000000000000004</height>
+      <glassArea>8.4000000000000146</glassArea>
+      <panelArea>0</panelArea>
+      <glassAreaEx>7.5375000000000085</glassAreaEx>
+      <orientationAngle>110</orientationAngle>
+      <orientationSlope>90</orientationSlope>
+      <roomName></roomName>
+      <levelName>Level 1</levelName>
+      <shadingWindowHole>0</shadingWindowHole>
+      <shadingHorizon>0</shadingHorizon>
+      <shadingHorizonBefore />
+      <shadingHorizonAfter />
+      <shadingOverhang>15</shadingOverhang>
+      <shadingOverhangBefore />
+      <shadingOverhangAfter />
+      <shadingLeft>0</shadingLeft>
+      <shadingLeftBefore />
+      <shadingRight>40</shadingRight>
+      <shadingRightBefore />
+      <Panels>
+        <Panel>
+          <id />
+          <name />
+          <area />
+          <perimeter />
+          <isItGlass />
+        </Panel>
+        <Panel>
+          <id>345449</id>
+          <name>Storefront</name>
+          <area>2.6156250000000023</area>
+          <perimeter>6.9000000000000012</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+        <Panel>
+          <id>345456</id>
+          <name>Storefront</name>
+          <area>2.6156250000000023</area>
+          <perimeter>6.9000000000000012</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+        <Panel>
+          <id>345458</id>
+          <name>Storefront</name>
+          <area>1.153125000000002</area>
+          <perimeter>4.3000000000000043</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+        <Panel>
+          <id>345461</id>
+          <name>Storefront</name>
+          <area>1.153125000000002</area>
+          <perimeter>4.3000000000000043</perimeter>
+          <isItGlass>true</isItGlass>
+        </Panel>
+      </Panels>
+      <wallId>339405</wallId>
+    </CurtainWall>
+  </CurtainWalls>
+  <Rooms>
+    <Room>
+      <name />
+      <id />
+      <level />
+      <interiorArea />
+      <volume />
+      <exteriorWallArea />
+      <exteriorFloorArea />
+      <exteriorRoofArea />
+      <windowArea />
+      <windowAreaSkyLight />
+      <Floors>
+        <Floor>
+          <id />
+          <name />
+          <area />
+          <perimeter />
+          <level />
+          <elevation />
+          <isElementExterior />
+        </Floor>
+      </Floors>
+      <Walls>
+        <Wall>
+          <id />
+          <name />
+          <area />
+          <length />
+          <height />
+          <width />
+          <exteriorWall />
+          <level />
+        </Wall>
+      </Walls>
+      <Roofs>
+        <Roof>
+          <id />
+          <name />
+          <area />
+          <width />
+          <level />
+          <roofSlope />
+        </Roof>
+      </Roofs>
+      <Families>
+        <Family>
+          <id />
+          <name />
+          <area />
+          <glassArea />
+          <panelArea />
+          <glassAreaEx />
+          <perimeter />
+          <height />
+          <length />
+          <wallId />
+          <orientationAngle />
+          <orientationSlope />
+          <roomName />
+          <silHeight />
+          <levelName />
+          <shadingWindowHole />
+          <hostWidth />
+          <shadingHorizon />
+          <shadingHorizonBefore />
+          <shadingHorizonAfter />
+          <shadingOverhang />
+          <shadingOverhangBefore />
+          <shadingOverhangAfter />
+          <shadingLeft />
+          <shadingLeftBefore />
+          <shadingRight />
+          <shadingRightBefore />
+        </Family>
+      </Families>
+      <CurtainWalls>
+        <CurtainWall>
+          <id />
+          <name />
+          <area />
+          <length />
+          <height />
+          <glassArea />
+          <panelArea />
+          <glassAreaEx />
+          <orientationAngle />
+          <orientationSlope />
+          <roomName />
+          <levelName />
+          <shadingWindowHole />
+          <shadingHorizon />
+          <shadingHorizonBefore />
+          <shadingHorizonAfter />
+          <shadingOverhang />
+          <shadingOverhangBefore />
+          <shadingOverhangAfter />
+          <shadingLeft />
+          <shadingLeftBefore />
+          <shadingRight />
+          <shadingRightBefore />
+          <Panels>
+            <Panel>
+              <id />
+              <name />
+              <area />
+              <perimeter />
+              <isItGlass />
+            </Panel>
+          </Panels>
+        </CurtainWall>
+      </CurtainWalls>
+    </Room>
+  </Rooms>
+</CADVES_BuildingElementInfo>

@@ -1,0 +1,570 @@
+@prefix bot:	<https://w3id.org/bot#> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rvt:	<https://example.org/rvt#> .
+@prefix inst:	<https://dtu.dk/projects/1001/> .
+
+### ELEMENTS ###
+
+# WALLS
+inst:wall_0QWlmolibAQPaZ8lgsMI_h
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "338815" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMI_h" .
+inst:wall_0QWlmolibAQPaZ8lgsMIyb
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "338929" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIyb" .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339344" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIb4" .
+inst:wall_0QWlmolibAQPaZ8lgsMIaP
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339405" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIaP" .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339447" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIaZ" .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339488" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIhq" .
+inst:wall_0QWlmolibAQPaZ8lgsMIgW
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339572" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIgW" .
+inst:wall_0QWlmolibAQPaZ8lgsMIf1
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339605" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIf1" .
+inst:wall_0QWlmolibAQPaZ8lgsMIl_
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339754" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIl_" .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339792" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIk4" .
+inst:wall_0QWlmolibAQPaZ8lgsMIkv
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339821" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIkv" .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339870" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIjA" .
+inst:wall_0QWlmolibAQPaZ8lgsMIji
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339896" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIji" .
+inst:wall_0QWlmolibAQPaZ8lgsMIin
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "339941" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMIin" .
+inst:wall_0QWlmolibAQPaZ8lgsMJI8
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "340060" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJI8" .
+inst:wall_0QWlmolibAQPaZ8lgsMJNo
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "340262" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJNo" .
+inst:wall_0QWlmolibAQPaZ8lgsMJLe
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "340412" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJLe" .
+inst:wall_0QWlmolibAQPaZ8lgsMJKz
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "340457" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJKz" .
+inst:wall_0QWlmolibAQPaZ8lgsMJQy
+	a bot:Element , inst:Interior_-_79mm_Partition_1-hr ;
+	rvt:id "340584" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJQy" .
+inst:wall_0QWlmolibAQPaZ8lgsMJPD
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "340633" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJPD" .
+inst:wall_0QWlmolibAQPaZ8lgsMJPk
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "340666" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJPk" .
+inst:wall_0QWlmolibAQPaZ8lgsMJ6J
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "341319" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ6J" .
+inst:wall_0QWlmolibAQPaZ8lgsMJ6u
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "341356" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ6u" .
+inst:wall_0QWlmolibAQPaZ8lgsMJ57
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "341395" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ57" .
+inst:wall_0QWlmolibAQPaZ8lgsMJ5w
+	a bot:Element , inst:Interior_-_135mm_Partition_2-hr ;
+	rvt:id "341422" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ5w" .
+inst:wall_0QWlmolibAQPaZ8lgsMKO5
+	a bot:Element , inst:Storefront ;
+	rvt:id "344785" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKO5" .
+inst:wall_0QWlmolibAQPaZ8lgsMK6y
+	a bot:Element , inst:Storefront ;
+	rvt:id "345448" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK6y" .
+inst:wall_0QWlmolibAQPaZ8lgsMLde
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "351548" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMLde" .
+inst:wall_0QWlmolibAQPaZ8lgsMMO0
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "352980" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMO0" .
+inst:wall_0QWlmolibAQPaZ8lgsMMVF
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "353051" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMVF" .
+inst:wall_0QWlmolibAQPaZ8lgsMMVd
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "353075" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMVd" .
+inst:wall_0QWlmolibAQPaZ8lgsMM7v
+	a bot:Element , inst:Generic_-_300mm ;
+	rvt:id "353581" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMM7v" .
+
+# WINDOWS & DOORS
+inst:door_0QWlmolibAQPaZ8lgsMJUc
+	a bot:Element ;
+	rvt:id "340850" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJUc" .
+inst:door_0QWlmolibAQPaZ8lgsMJTA
+	a bot:Element ;
+	rvt:id "340894" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJTA" .
+inst:door_0QWlmolibAQPaZ8lgsMJSG
+	a bot:Element ;
+	rvt:id "340932" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJSG" .
+inst:door_0QWlmolibAQPaZ8lgsMJ34
+	a bot:Element ;
+	rvt:id "341008" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ34" .
+inst:door_0QWlmolibAQPaZ8lgsMJ2w
+	a bot:Element ;
+	rvt:id "341102" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ2w" .
+inst:door_0QWlmolibAQPaZ8lgsMJ1E
+	a bot:Element ;
+	rvt:id "341146" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ1E" .
+inst:door_0QWlmolibAQPaZ8lgsMJ0W
+	a bot:Element ;
+	rvt:id "341236" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ0W" .
+inst:door_0QWlmolibAQPaZ8lgsMJsf
+	a bot:Element ;
+	rvt:id "342397" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJsf" .
+inst:door_0QWlmolibAQPaZ8lgsMJqB
+	a bot:Element ;
+	rvt:id "342495" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJqB" .
+inst:door_0QWlmolibAQPaZ8lgsMJxX
+	a bot:Element ;
+	rvt:id "342581" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJxX" .
+inst:door_0QWlmolibAQPaZ8lgsMJ%24y
+	a bot:Element ;
+	rvt:id "342824" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ$y" .
+inst:door_0QWlmolibAQPaZ8lgsMJ_k
+	a bot:Element ;
+	rvt:id "342906" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJ_k" .
+inst:window_0QWlmolibAQPaZ8lgsMJz9
+	a bot:Element ;
+	rvt:id "342941" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJz9" .
+inst:window_0QWlmolibAQPaZ8lgsMJy3
+	a bot:Element ;
+	rvt:id "342999" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJy3" .
+inst:window_0QWlmolibAQPaZ8lgsMJyl
+	a bot:Element ;
+	rvt:id "343035" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJyl" .
+inst:window_0QWlmolibAQPaZ8lgsMJZn
+	a bot:Element ;
+	rvt:id "343077" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJZn" .
+inst:window_0QWlmolibAQPaZ8lgsMJYn
+	a bot:Element ;
+	rvt:id "343141" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJYn" .
+inst:window_0QWlmolibAQPaZ8lgsMJX7
+	a bot:Element ;
+	rvt:id "343187" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJX7" .
+inst:window_0QWlmolibAQPaZ8lgsMJXl
+	a bot:Element ;
+	rvt:id "343227" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJXl" .
+inst:window_0QWlmolibAQPaZ8lgsMJWn
+	a bot:Element ;
+	rvt:id "343269" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJWn" .
+inst:window_0QWlmolibAQPaZ8lgsMJhP
+	a bot:Element ;
+	rvt:id "343565" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJhP" .
+inst:window_0QWlmolibAQPaZ8lgsMJhX
+	a bot:Element ;
+	rvt:id "343605" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJhX" .
+inst:window_0QWlmolibAQPaZ8lgsMJgR
+	a bot:Element ;
+	rvt:id "343631" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJgR" .
+inst:window_0QWlmolibAQPaZ8lgsMJfw
+	a bot:Element ;
+	rvt:id "343726" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJfw" .
+inst:window_0QWlmolibAQPaZ8lgsMJeV
+	a bot:Element ;
+	rvt:id "343755" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJeV" .
+inst:window_0QWlmolibAQPaZ8lgsMJl3
+	a bot:Element ;
+	rvt:id "343831" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJl3" .
+inst:window_0QWlmolibAQPaZ8lgsMJkT
+	a bot:Element ;
+	rvt:id "343881" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJkT" .
+inst:window_0QWlmolibAQPaZ8lgsMJkg
+	a bot:Element ;
+	rvt:id "343934" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJkg" .
+inst:window_0QWlmolibAQPaZ8lgsMJjI
+	a bot:Element ;
+	rvt:id "343942" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMJjI" .
+inst:window_0QWlmolibAQPaZ8lgsMKI3
+	a bot:Element ;
+	rvt:id "344151" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKI3" .
+inst:window_0QWlmolibAQPaZ8lgsMKHA
+	a bot:Element ;
+	rvt:id "344222" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKHA" .
+inst:window_0QWlmolibAQPaZ8lgsMKGP
+	a bot:Element ;
+	rvt:id "344269" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKGP" .
+inst:window_0QWlmolibAQPaZ8lgsMKMV
+	a bot:Element ;
+	rvt:id "344395" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKMV" .
+inst:window_0QWlmolibAQPaZ8lgsMKMx
+	a bot:Element ;
+	rvt:id "344431" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKMx" .
+inst:window_0QWlmolibAQPaZ8lgsMKLP
+	a bot:Element ;
+	rvt:id "344461" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKLP" .
+inst:window_0QWlmolibAQPaZ8lgsMKKT
+	a bot:Element ;
+	rvt:id "344521" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKKT" .
+inst:window_0QWlmolibAQPaZ8lgsMKKr
+	a bot:Element ;
+	rvt:id "344545" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKKr" .
+inst:window_0QWlmolibAQPaZ8lgsMKRR
+	a bot:Element ;
+	rvt:id "344591" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKRR" .
+inst:window_0QWlmolibAQPaZ8lgsMKTw
+	a bot:Element ;
+	rvt:id "345006" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTw" .
+inst:window_0QWlmolibAQPaZ8lgsMK34
+	a bot:Element ;
+	rvt:id "345104" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK34" .
+inst:window_0QWlmolibAQPaZ8lgsMK2C
+	a bot:Element ;
+	rvt:id "345176" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK2C" .
+inst:window_0QWlmolibAQPaZ8lgsMK2j
+	a bot:Element ;
+	rvt:id "345209" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK2j" .
+inst:window_0QWlmolibAQPaZ8lgsMK1r
+	a bot:Element ;
+	rvt:id "345249" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK1r" .
+inst:window_0QWlmolibAQPaZ8lgsMK05
+	a bot:Element ;
+	rvt:id "345297" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK05" .
+inst:window_0QWlmolibAQPaZ8lgsMK7L
+	a bot:Element ;
+	rvt:id "345345" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMK7L" .
+inst:window_0QWlmolibAQPaZ8lgsMKCk
+	a bot:Element ;
+	rvt:id "346106" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKCk" .
+inst:window_0QWlmolibAQPaZ8lgsMKoM
+	a bot:Element ;
+	rvt:id "346178" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKoM" .
+inst:window_0QWlmolibAQPaZ8lgsMKn7
+	a bot:Element ;
+	rvt:id "346259" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKn7" .
+inst:window_0QWlmolibAQPaZ8lgsMKgi
+	a bot:Element ;
+	rvt:id "347768" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKgi" .
+inst:window_0QWlmolibAQPaZ8lgsMLlE
+	a bot:Element ;
+	rvt:id "352026" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMLlE" .
+inst:window_0QWlmolibAQPaZ8lgsMLkO
+	a bot:Element ;
+	rvt:id "352076" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMLkO" .
+inst:window_0QWlmolibAQPaZ8lgsMLi8
+	a bot:Element ;
+	rvt:id "352220" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMLi8" .
+inst:door_0QWlmolibAQPaZ8lgsMMNK
+	a bot:Element ;
+	rvt:id "352512" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMNK" .
+inst:window_0QWlmolibAQPaZ8lgsMMDY
+	a bot:Element ;
+	rvt:id "354230" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMDY" .
+inst:window_0QWlmolibAQPaZ8lgsMMpx
+	a bot:Element ;
+	rvt:id "354351" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMpx" .
+inst:window_0QWlmolibAQPaZ8lgsMMnK
+	a bot:Element ;
+	rvt:id "354432" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMMnK" .
+
+### STOREYS ###
+inst:level_0QWlmolibAQPaZ8lgsN0NZ
+	a bot:Storey ;
+	rvt:id "311" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsN0NZ" .
+inst:level_0QWlmolibAQPaZ8lgsN0PY
+	a bot:Storey ;
+	rvt:id "694" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsN0PY" .
+inst:level_0QWlmolibAQPaZ8lgsMDtF
+	a bot:Storey ;
+	rvt:id "317723" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMDtF" .
+
+### SPACES ###
+inst:room_0QWlmolibAQPaZ8lgsMKUY
+	a bot:Space ;
+	rvt:id "344950" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKUY" .
+inst:room_0QWlmolibAQPaZ8lgsMKUj
+	a bot:Space ;
+	rvt:id "344953" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKUj" .
+inst:room_0QWlmolibAQPaZ8lgsMKUe
+	a bot:Space ;
+	rvt:id "344956" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKUe" .
+inst:room_0QWlmolibAQPaZ8lgsMKUh
+	a bot:Space ;
+	rvt:id "344959" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKUh" .
+inst:room_0QWlmolibAQPaZ8lgsMKTM
+	a bot:Space ;
+	rvt:id "344962" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTM" .
+inst:room_0QWlmolibAQPaZ8lgsMKTS
+	a bot:Space ;
+	rvt:id "344968" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTS" .
+inst:room_0QWlmolibAQPaZ8lgsMKTV
+	a bot:Space ;
+	rvt:id "344971" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTV" .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ
+	a bot:Space ;
+	rvt:id "344974" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTQ" .
+inst:room_0QWlmolibAQPaZ8lgsMKT5
+	a bot:Space ;
+	rvt:id "344977" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKT5" .
+inst:room_0QWlmolibAQPaZ8lgsMKT0
+	a bot:Space ;
+	rvt:id "344980" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKT0" .
+inst:room_0QWlmolibAQPaZ8lgsMKT3
+	a bot:Space ;
+	rvt:id "344983" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKT3" .
+inst:room_0QWlmolibAQPaZ8lgsMKTE
+	a bot:Space ;
+	rvt:id "344986" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKTE" .
+inst:room_0QWlmolibAQPaZ8lgsMKT9
+	a bot:Space ;
+	rvt:id "344989" ;
+	rvt:guid "0QWlmolibAQPaZ8lgsMKT9" .
+
+### RELATIONSHIPS ###
+
+# WINDOWS AND DOORS HOSTED IN A WALL
+inst:wall_0QWlmolibAQPaZ8lgsMIyb bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJUc .
+inst:wall_0QWlmolibAQPaZ8lgsMI_h bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJTA .
+inst:wall_0QWlmolibAQPaZ8lgsMIf1 bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJSG .
+inst:wall_0QWlmolibAQPaZ8lgsMI_h bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ34 .
+inst:wall_0QWlmolibAQPaZ8lgsMI_h bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ2w .
+inst:wall_0QWlmolibAQPaZ8lgsMJLe bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ1E .
+inst:wall_0QWlmolibAQPaZ8lgsMJLe bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ0W .
+inst:wall_0QWlmolibAQPaZ8lgsMJNo bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJsf .
+inst:wall_0QWlmolibAQPaZ8lgsMJNo bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJqB .
+inst:wall_0QWlmolibAQPaZ8lgsMJNo bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJxX .
+inst:wall_0QWlmolibAQPaZ8lgsMJ6J bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ%24y .
+inst:wall_0QWlmolibAQPaZ8lgsMJ6J bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMJ_k .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJz9 .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJy3 .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJyl .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJZn .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJYn .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJX7 .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJXl .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJWn .
+inst:wall_0QWlmolibAQPaZ8lgsMIgW bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJhP .
+inst:wall_0QWlmolibAQPaZ8lgsMIgW bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJhX .
+inst:wall_0QWlmolibAQPaZ8lgsMIf1 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJgR .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJfw .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJeV .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJl3 .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJkT .
+inst:wall_0QWlmolibAQPaZ8lgsMIl_ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJkg .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMJjI .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKI3 .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKHA .
+inst:wall_0QWlmolibAQPaZ8lgsMIk4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKGP .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKMV .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKMx .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKLP .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKKT .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKKr .
+inst:wall_0QWlmolibAQPaZ8lgsMIjA bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKRR .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKTw .
+inst:wall_0QWlmolibAQPaZ8lgsMIb4 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK34 .
+inst:wall_0QWlmolibAQPaZ8lgsMIf1 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK2C .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK2j .
+inst:wall_0QWlmolibAQPaZ8lgsMIhq bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK1r .
+inst:wall_0QWlmolibAQPaZ8lgsMIgW bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK05 .
+inst:wall_0QWlmolibAQPaZ8lgsMIgW bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMK7L .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKCk .
+inst:wall_0QWlmolibAQPaZ8lgsMIaZ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKoM .
+inst:wall_0QWlmolibAQPaZ8lgsMJI8 bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKn7 .
+inst:wall_0QWlmolibAQPaZ8lgsMIl_ bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMKgi .
+inst:wall_0QWlmolibAQPaZ8lgsMLde bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMLlE .
+inst:wall_0QWlmolibAQPaZ8lgsMLde bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMLkO .
+inst:wall_0QWlmolibAQPaZ8lgsMLde bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMLi8 .
+inst:wall_0QWlmolibAQPaZ8lgsMJKz bot:hasSubElement inst:door_0QWlmolibAQPaZ8lgsMMNK .
+inst:wall_0QWlmolibAQPaZ8lgsMIkv bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMMpx .
+inst:wall_0QWlmolibAQPaZ8lgsMIaP bot:hasSubElement inst:window_0QWlmolibAQPaZ8lgsMMnK .
+
+# ROOMS AT EACH STOREY
+inst:level_0QWlmolibAQPaZ8lgsN0PY bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKUY .
+inst:level_0QWlmolibAQPaZ8lgsN0PY bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKUj .
+inst:level_0QWlmolibAQPaZ8lgsN0PY bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKUe .
+inst:level_0QWlmolibAQPaZ8lgsN0PY bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKUh .
+inst:level_0QWlmolibAQPaZ8lgsN0PY bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKTM .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKTS .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKTV .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKTQ .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKT5 .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKT0 .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKT3 .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKTE .
+inst:level_0QWlmolibAQPaZ8lgsN0NZ bot:hasSpace inst:room_0QWlmolibAQPaZ8lgsMKT9 .
+
+# ELEMENTS ADJACENT TO ROOMS
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIkv .
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJNo .
+inst:room_0QWlmolibAQPaZ8lgsMKUY bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIjA .
+inst:room_0QWlmolibAQPaZ8lgsMKUj bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIk4 .
+inst:room_0QWlmolibAQPaZ8lgsMKUj bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6u .
+inst:room_0QWlmolibAQPaZ8lgsMKUj bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKUj bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIkv .
+inst:room_0QWlmolibAQPaZ8lgsMKUe bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIk4 .
+inst:room_0QWlmolibAQPaZ8lgsMKUe bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ57 .
+inst:room_0QWlmolibAQPaZ8lgsMKUe bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ57 .
+inst:room_0QWlmolibAQPaZ8lgsMKUe bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKUe bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6u .
+inst:room_0QWlmolibAQPaZ8lgsMKUh bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIk4 .
+inst:room_0QWlmolibAQPaZ8lgsMKUh bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJNo .
+inst:room_0QWlmolibAQPaZ8lgsMKUh bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ5w .
+inst:room_0QWlmolibAQPaZ8lgsMKUh bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ57 .
+inst:room_0QWlmolibAQPaZ8lgsMKTM bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJNo .
+inst:room_0QWlmolibAQPaZ8lgsMKTM bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ6J .
+inst:room_0QWlmolibAQPaZ8lgsMKTM bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ57 .
+inst:room_0QWlmolibAQPaZ8lgsMKTM bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJ5w .
+inst:room_0QWlmolibAQPaZ8lgsMKTS bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIb4 .
+inst:room_0QWlmolibAQPaZ8lgsMKTS bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPD .
+inst:room_0QWlmolibAQPaZ8lgsMKTS bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPD .
+inst:room_0QWlmolibAQPaZ8lgsMKTS bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKTS bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJQy .
+inst:room_0QWlmolibAQPaZ8lgsMKTV bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIb4 .
+inst:room_0QWlmolibAQPaZ8lgsMKTV bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJQy .
+inst:room_0QWlmolibAQPaZ8lgsMKTV bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKTV bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIaP .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIaZ .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIaP .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKTQ bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKT5 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKT5 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJLe .
+inst:room_0QWlmolibAQPaZ8lgsMKT5 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPD .
+inst:room_0QWlmolibAQPaZ8lgsMKT5 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPk .
+inst:room_0QWlmolibAQPaZ8lgsMKT0 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKT0 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPk .
+inst:room_0QWlmolibAQPaZ8lgsMKT0 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJPD .
+inst:room_0QWlmolibAQPaZ8lgsMKT0 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIb4 .
+inst:room_0QWlmolibAQPaZ8lgsMKT3 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIyb .
+inst:room_0QWlmolibAQPaZ8lgsMKT3 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIgW .
+inst:room_0QWlmolibAQPaZ8lgsMKT3 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMLde .
+inst:room_0QWlmolibAQPaZ8lgsMKT3 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJKz .
+inst:room_0QWlmolibAQPaZ8lgsMKTE bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIyb .
+inst:room_0QWlmolibAQPaZ8lgsMKTE bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMJKz .
+inst:room_0QWlmolibAQPaZ8lgsMKTE bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMLde .
+inst:room_0QWlmolibAQPaZ8lgsMKTE bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIhq .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMI_h .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIb4 .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIf1 .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIgW .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIyb .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIyb .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIhq .
+inst:room_0QWlmolibAQPaZ8lgsMKT9 bot:adjacentElement inst:wall_0QWlmolibAQPaZ8lgsMIaZ .
